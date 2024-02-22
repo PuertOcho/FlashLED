@@ -16,6 +16,14 @@ En la siguiente imagen muestra como es el conexionado del LED con el puerto PA5,
 
 ![[20240222152414.png]]
 
+
+
+
+https://github.com/PuertOcho/FlashLED/assets/57835621/35517888-6cf1-492d-b1e6-d211a2b5b65d
+
+
+
+
 ## Test
 
 ![](assets/VID_20240222_135813.mp4)
