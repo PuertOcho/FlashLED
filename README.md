@@ -14,10 +14,9 @@ Esperar 100 ms
 Esperar 400 ms
 ```
 
-En la siguiente imagen muestra como es el conexionado del LED con el puerto PA5, con una resistencia para limitar la corriente del LED (Todo esto ya integrado dentro de la placa) 
+En la siguiente imagen muestra como es el conexionado del LED con el puerto PA5, con una resistencia para limitar la corriente del LED (Todo esto ya integrado dentro de la placa)
+ 
+![](assets/20240222152414.png)
 
-![[20240222152414.png]]
-
-
-## Test
+## Video test
 https://github.com/PuertOcho/FlashLED/assets/57835621/35517888-6cf1-492d-b1e6-d211a2b5b65d
