@@ -14,4 +14,8 @@ Esperar 400 ms
 
 En la siguiente imagen muestra como es el conexionado del LED con el puerto PA5, con una resistencia para limitar la corriente del LED (Todo esto ya integrado dentro de la placa) 
 
-![[Pasted image 20240222152414.png]]
+![[20240222152414.png]]
+
+## Test
+
+![](assets/VID_20240222_135813.mp4)
