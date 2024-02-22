@@ -2,8 +2,8 @@
 
 En este proyecto de la placa Nucleo-L476RG. El LED parpadea en un grupo de dos destellos rápidos cada segundo. Este tipo de flasheo se identifica como **GpFl(2)** en luces de faros marítimos. En este proyecto se utiliza el LED de usuario de la placa Nucleo-L476RG para simplificar. El LED parpadea en un grupo de dos destellos rápidos cada segundo. Se supone que la velocidad de parpadeo es de 200 ms. Este tipo de flasheo se identifica como **GpFl(2)** en luces de faros marítimos. El objetivo de este proyecto es mostrar cómo un LED se puede encender y apagar a diferentes velocidades. Por tanto, la secuencia de parpadeo requerida se puede expresar de la siguiente manera:
 
-LED ON
-Esperar 200 ms
+LED ON \n
+Esperar 200 ms \n
 LED OFF
 Esperar 100 ms
 LED ON
