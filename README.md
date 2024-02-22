@@ -19,3 +19,4 @@ En la siguiente imagen muestra como es el conexionado del LED con el puerto PA5,
 ## Test
 
 ![](assets/VID_20240222_135813.mp4)
+![test](https://dev.puertocho.com/noAuth/video/VID_20240222_135813.mp4)
